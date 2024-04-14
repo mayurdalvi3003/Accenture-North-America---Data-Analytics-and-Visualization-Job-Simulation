@@ -25,11 +25,15 @@ Each task focused on different aspects of Data Analytics and Visualization, incl
 Below is a list of project completed during the internship:
 
 ### 1. `Project Title:` [Analysis Of Social Buzz Clients Dataset to find the top-5 Categories on the basis of Popularity Score]
-**Objective**:  An analysis of Social Buzz's content categories that highlights the top 5 categories with the 
+
+- **Objective**:  An analysis of Social Buzz's content categories that highlights the top 5 categories with the 
 largest aggregate popularity
-**Approach**: To solve this , i used Python Pandas , NumPy , Matplotlib and Seaborn Libraries .
-**Results**:I have given .pbix file that is PowerBI dashboard file , you can go through it to see the final output.
-**Visualizations**: Included screenshots in the above repository or you can see Powetpoint slides to see the visualizations or you can 
+
+- **Approach**: To solve this , i used Python Pandas , NumPy , Matplotlib and Seaborn Libraries .
+
+- **Results**: I have given .pbix file that is PowerBI dashboard file , you can go through it to see the final output.
+
+- **Visualizations**: Included screenshots in the above repository or you can see Powetpoint slides to see the visualizations or you can 
 use `Main.ipynb` file to see the entire procedure to reach at the final output
 
 ## `Learning Outcomes`
